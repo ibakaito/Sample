@@ -1,4 +1,4 @@
-package oit.is.inudaisuki.springboot_samples.controller;
+package y_drive.sample.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
